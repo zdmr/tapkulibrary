@@ -34,7 +34,7 @@
 
 @implementation AppDelegate_iPhone
 @synthesize root=_root,navigationController=_navigationController;
-
+@synthesize window;
 
 #pragma mark -
 #pragma mark Application lifecycle

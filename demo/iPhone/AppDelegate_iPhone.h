@@ -39,6 +39,6 @@
 
 @property (nonatomic, retain) RootViewController *root;
 @property (nonatomic, retain) UINavigationController *navigationController;
-
+@property (nonatomic, retain) UIWindow *window;
 @end
 
